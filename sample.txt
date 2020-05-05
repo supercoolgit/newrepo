@@ -1,1 +1,9 @@
 sample
+
+
+Git commands :
+
+git status 
+git add -A (ALL FILES)
+git commit -m "commit-1"
+git push -u origin master
